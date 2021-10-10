@@ -1,0 +1,16 @@
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/loggin-cs
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/loggin-cs.deps.json
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/loggin-cs.runtimeconfig.json
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/loggin-cs.runtimeconfig.dev.json
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/loggin-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/ref/loggin-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/bin/Release/net5.0/loggin-cs.pdb
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.csproj.AssemblyReference.cache
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.AssemblyInfoInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.AssemblyInfo.cs
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/ref/loggin-cs.dll
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.pdb
+/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/Release/net5.0/loggin-cs.genruntimeconfig.cache
