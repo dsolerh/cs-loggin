@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/loggin-cs.csproj": {}
+    "/home/daniel/Documents/Projects/netcore/cs-loggin/loggin-cs.csproj": {}
   },
   "projects": {
-    "/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/loggin-cs.csproj": {
+    "/home/daniel/Documents/Projects/netcore/cs-loggin/loggin-cs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/loggin-cs.csproj",
+        "projectUniqueName": "/home/daniel/Documents/Projects/netcore/cs-loggin/loggin-cs.csproj",
         "projectName": "loggin-cs",
-        "projectPath": "/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/loggin-cs.csproj",
+        "projectPath": "/home/daniel/Documents/Projects/netcore/cs-loggin/loggin-cs.csproj",
         "packagesPath": "/home/daniel/.nuget/packages/",
-        "outputPath": "/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/obj/",
+        "outputPath": "/home/daniel/Documents/Projects/netcore/cs-loggin/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/daniel/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "d00Rt3Hm+ZSD2jGPu55w1qMoOYiVMjC/x//fjaIRk0/v8/gR2A6SL8K1vmCcTnZZoeQADDPstlMJewfnd4gvag==",
+  "dgSpecHash": "w/wS/qJR1GuPFY1eb8F/IO0hR3PSgd/iEbgZmjPEEeYvXwI2ReFIERCjKDbHzkdurNJiXJGFVXXarFzl1XYr4g==",
   "success": true,
-  "projectFilePath": "/mnt/Storage/Projects/netcore/c#book-code/loggin-cs/loggin-cs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/daniel/Documents/Projects/netcore/cs-loggin/loggin-cs.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/microsoft.extensions.configuration/5.0.0/microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0/microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0/microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.configuration.fileextensions/5.0.0/microsoft.extensions.configuration.fileextensions.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.configuration.json/5.0.0/microsoft.extensions.configuration.json.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/home/daniel/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

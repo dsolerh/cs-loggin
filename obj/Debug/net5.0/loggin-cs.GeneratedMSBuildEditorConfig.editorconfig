@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = loggin_cs
-build_property.ProjectDir = /mnt/Storage/Projects/netcore/c#book-code/loggin-cs/
+build_property.ProjectDir = /home/daniel/Documents/Projects/netcore/cs-loggin/
